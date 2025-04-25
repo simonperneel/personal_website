@@ -10,21 +10,11 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "2021-2025",
+    title: "Data engineer/scientist",
+    company: "Imec-mict-UGent",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
-  },
-  {
-    date: "Summer 2022",
-    title: "Research Intern",
-    company: "Google Research",
-    description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+      "Looking for patterns in people's smartphone behavior and use of apps. Investigating whether smartphone use can be a predictor for ones (digital) wellbeing (stress, headaches, moods, online vigilance). Responsible for the MobileDNA research tool. MobileDNA is an app developed by imec-mict-UGent to monitor people's smartphone usage.",
+    companyUrl: "https://mobiledna.ugent.be",
   },
 ];

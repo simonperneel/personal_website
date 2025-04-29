@@ -20,11 +20,11 @@ export interface AboutMe {
 export const aboutMe: AboutMe = {
   name: "Simon Perneel",
   email: "simon.perneel@ugent.be",
-  title: "Ph.D. Candidate",
+  title: "Data scientist",
   institution: "Imec-mict-UGent'",
   // Note that links work in the description
   description:
-    "I am a researcher at <a href='https://www.ugent.be/mict/en'>Imec-mict-UGent</a>, focusing on analyzing smartphone logdata.  to predict moods and stress levels from smartphone use patterns. I am responsible for the <a href=https://mobiledna.ugent.be>MobileDNA</a>-project, a research tool used to get insights in smartphone use.", 
+    "I am a researcher at <a href='https://www.ugent.be/mict/en'>Imec-mict-UGent</a>, focusing on analyzing smartphone logdata to predict moods and stress levels from smartphone use patterns. I am responsible for the <a href=https://mobiledna.ugent.be>MobileDNA</a>-project, a research tool used to get insights in smartphone use.", 
   imageUrl:
     "https://www.ugent.be/mict/img/fotos-teammembers/mieja_fotografie-imecugent140.jpg/@@images/79ebda1a-7597-4c7b-9483-31f5fba65aae.jpeg",
   googleScholarUrl: "https://scholar.google.be/citations?user=H3PgQakAAAAJ&hl=en",

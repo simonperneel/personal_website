@@ -12,11 +12,9 @@ export const portfolioData: Portfolio[] = [
   {
     title: "Optimizing human activity recogntion with inertial sensors",
     description:
-      "A framework for discovering causal relationships in high-dimensional time series data using state-of-the-art machine learning techniques.",
+      "For my master's thesis, I developed a human activity recognition system using wearable Magnetic Inertial Measurement Units (MIMUs). I compared feature-based and 'raw' inertial data-based classification approaches, evaluating sensor placement, feature selection, and the value of magnetometer data. The final model, using only accelerometer and gyroscope features from 3 optimally placed sensors, achieved an accuracy of 97% and F1-score of 98%.",
     technologies: ["Python", "Sklearn", "Tensorflow"],
     projectUrl: "https://github.com/simonperneel/MAI-Thesis-HAR/",
-    imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/username/project",
   },
 ];
